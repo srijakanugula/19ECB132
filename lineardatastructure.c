@@ -132,3 +132,41 @@ int main(void) {
     
   }
 }
+*/ output:
+
+1. Stack using Array
+2. Queue using Array
+3. Stack using Linked List
+4. Queue using Linked List
+5. Exit from the program
+
+ Provide an option: 2
+
+***Creation of Queue using Array***
+ 1. Enqueue      2. Dequeue      3. Display      4. Return to previous menu 
+ Choose an option: 1
+
+Enter the element to be inserted to the queue: 67
+
+ 1. Enqueue      2. Dequeue      3. Display      4. Return to previous menu 
+ Choose an option: 3
+67 
+ 1. Enqueue      2. Dequeue      3. Display      4. Return to previous menu 
+ Choose an option: 1
+
+Enter the element to be inserted to the queue: 89
+
+ 1. Enqueue      2. Dequeue      3. Display      4. Return to previous menu 
+ Choose an option: 2
+
+Deleted element is: 67
+ 1. Enqueue      2. Dequeue      3. Display      4. Return to previous menu 
+ Choose an option: 4
+
+1. Stack using Array
+2. Queue using Array
+3. Stack using Linked List
+4. Queue using Linked List
+5. Exit from the program
+*/
+  
