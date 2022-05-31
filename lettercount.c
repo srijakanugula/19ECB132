@@ -11,8 +11,16 @@ int main(void) {
   printf("\nThe number of letters in the given sentence are : %d\n", number_of_letters);
   return 0;
 }
+*/ output :
+Enter a sentence: suraj 
 
-/* Obervations:
+The number of letters in the given sentence are : 5
+
+  Enter a sentence: suraj aravind 
+
+The number of letters in the given sentence are : 5 */
+  
+  /* Obervations:
 01. How to work with sentences having a space in between?
 Output:
 Case - 01
